@@ -1,0 +1,11 @@
+{
+  "../\u0000vite/modulepreload-polyfill.js": [
+    "/assets/favicon-uSLXchjO.ico"
+  ],
+  "../src/entry-client.js": [
+    "/assets/favicon-uSLXchjO.ico"
+  ],
+  "index.html": [
+    "/assets/favicon-uSLXchjO.ico"
+  ]
+}
